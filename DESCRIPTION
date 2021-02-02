@@ -2,7 +2,7 @@ Package: foofactors
 Title: Make Factors Less Aggravating
 Version: 0.0.0.9000
 Authors@R:
-    person("Jane", "Doe", email = "jane@example.com", role = c("aut", "cre"))
+    person("Randy", "Lai", email = "jane@example.com", role = c("aut", "cre"))
 Description: Factors have driven people to extreme measures, like ordering
     custom conference ribbons and laptop stickers to express how HELLNO we
     feel about stringsAsFactors. And yet, sometimes you need them. Can they
